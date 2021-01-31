@@ -1,5 +1,5 @@
-  <div  style="text-align:center;;font-size:30px">
-			 码码欢迎您 
+  <div >
+			<center> 码码欢迎您 </center>
  </div>
   <div class="text-left strp-div-cnt"  style="width:70%;display:inline-block;">
 		   <p style="text-indent:40px;">
