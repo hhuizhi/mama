@@ -13,25 +13,19 @@
                <p style="text-indent:60px;">
                  2、java创WEB项目，建议JDK7
               </p>
-              
               <p style="text-indent:60px;">
                  3、mysql数据库
               </p>
               <p style="text-indent:60px;">
                  4、应用到的技术：html(boostrap)、springmvc、mybatis、
               </p>
-              
-             <p style="text-indent:40px;">
+              <p style="text-indent:40px;">
 		     不只是简单的增删查改，不只是这些！！不只是这些！！不只是这些！！还有很多核心功能：比如导入导出、条件搜索、图片上传等等，丰富的前后台接口等你来体验。赶紧注册后快乐玩耍
-		      
-             </p>	
-             
-               <p style="text-indent:40px;">
+              </p>	
+              <p style="text-indent:40px;">
 		     您可以下载宝典和demo快速上手一下哦      
              </p>	
-             
-              <p style="text-indent:40px;">
+               <p style="text-indent:40px;">
                 
               </p>
-		    
 		    </div>
