@@ -1,4 +1,7 @@
- <div class="text-left strp-div-cnt"  style="width:70%;display:inline-block;">
+  <div  style="text-align:center;;font-size:30px">
+			 码码欢迎您 
+ </div>
+  <div class="text-left strp-div-cnt"  style="width:70%;display:inline-block;">
 		   <p style="text-indent:40px;">
 		       &nbsp &nbsp &nbsp &nbsp 码码是一个根据配置文件自动生成后台项目的在线工具。只要定义一个与数据库表结构相关的数据结构扥文件。既可以根据这个配置的文件。制动生成一个maven的WEB工程代码。
 	</p><p style="text-indent:40px;">
@@ -22,10 +25,8 @@
               <p style="text-indent:40px;">
 	 &nbsp &nbsp &nbsp &nbsp不只是简单的增删查改，不只是这些！！不只是这些！！不只是这些！！还有很多核心功能：比如导入导出、条件搜索、图片上传等等，丰富的前后台接口等你来体验。赶紧前往体验 <a href="www.baidu.com">码码（正在部署，敬请留意）</a>
               </p>	
-              <p style="text-indent:40px;">
-		     
+              <p style="text-indent:40px;"> 	     
              </p>	
-               <p style="text-indent:40px;">
-                
+               <p style="text-indent:40px;"> 
               </p>
-		    </div>
+   </div>
