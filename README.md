@@ -1,7 +1,9 @@
 <div><p align="center" style='font-size=40px'><font Size=400 ><strong>码码欢迎您</strong></font></p></div>
 <div class="text-left strp-div-cnt"  style="width:70%;display:inline-block;">
-		   <p style="text-indent:40px;">
-		       &nbsp &nbsp &nbsp &nbsp 码码是一个根据配置文件自动生成后台项目的在线工具。只要定义一个与数据库表结构相关的数据结构扥文件。既可以根据这个配置的文件。制动生成一个maven的WEB工程代码。
+		    <p style="text-indent:40px;">
+		       &nbsp &nbsp &nbsp &nbsp 码码是一个在线代码生成神器，能10秒内生成整个工程的代码。代码框架主要包括springMVC\mybatis\boostrap等 。
+	</p><p style="text-indent:40px;">
+		       &nbsp &nbsp &nbsp &nbsp 码码根据配置文件自动生成后台项目的在线工具。只要定义一个与数据库表结构相关的数据结构扥文件。既可以根据这个配置的文件。制动生成一个maven的WEB工程代码。
 	</p><p style="text-indent:40px;">
 		       &nbsp &nbsp &nbsp &nbsp是的，只需要定义一个表结构的文件，即可生成一整套项目源码。不仅仅是持久层的相关DAO。是整套！！整套！！整套！！包含页面、MVC的各层，持久化层。
 		      甚至还有建表脚本。让你10秒就拥有一套完完整的项目代码</p>
