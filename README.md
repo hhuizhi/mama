@@ -23,7 +23,7 @@
                  &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp 4、应用到的技术：html(boostrap)、springmvc、mybatis、
               </p>
               <p style="text-indent:40px;">
-	 &nbsp &nbsp &nbsp &nbsp不只是简单的增删查改，不只是这些！！不只是这些！！不只是这些！！还有很多核心功能：比如导入导出、条件搜索、图片上传等等，丰富的前后台接口等你来体验。赶紧前往体验 <a href="www.baidu.com">码码（正在部署，敬请留意）</a>
+	 &nbsp &nbsp &nbsp &nbsp不只是简单的增删查改，不只是这些！！不只是这些！！不只是这些！！还有很多核心功能：比如导入导出、条件搜索、图片上传等等，丰富的前后台接口等你来体验。赶紧前往体验 <a href="http://120.26.215.101:8060/mama">码码（正在部署，敬请留意）</a>
               </p>	
               <p style="text-indent:40px;"> 	     
              </p>	
